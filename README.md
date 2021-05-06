@@ -1,6 +1,3 @@
-# Sockets
-Trabalho 3 de Redes - Chat utilizando Sockets em Python.
-
 ## Utlizar o Python na versão 3 ou superior ##
 
 - Abrir o terminal no diretório dos arquivos.
